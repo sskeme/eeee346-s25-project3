@@ -1,0 +1,3 @@
+Encoding message using a(n) Affine Cipher encoder!
+Encoded Message is:
+CVXWVMU LCIX ZA VCO NCMWVVWVMU

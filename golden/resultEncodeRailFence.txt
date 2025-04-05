@@ -1,0 +1,3 @@
+Encoding message using a(n) Rail Fence Cipher encoder!
+Encoded Message is:
+TG HSIGBKAKVNRANIE
