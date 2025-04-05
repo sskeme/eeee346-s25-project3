@@ -25,7 +25,7 @@ public:
   bool encode(string msg);
 
   /*  
-   * decode(): performs Vigenere decoding of message
+   * decode(): performs Vigenere decoding of a message
    * @param msg - string message to decode
    * @return true if decoding is successful; otherwise false
    */
