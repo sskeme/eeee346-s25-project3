@@ -25,7 +25,7 @@ public:
   bool encode(string msg);
 
   /*  
-   * decode(): performs Rail Fence decoding of message
+   * decode(): performs Rail Fence decoding of a message
    * @param msg - string message to decode
    * @return true if decoding is successfull otherwise false
    */
